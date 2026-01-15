@@ -1,12 +1,12 @@
 # jugend-forscht-trade-shocks
 
-Dieser Code gehört zur Jugend-forscht-Arbeit
 „Zölle, Chaos und Handelsströme – Modellanalyse von Schocks auf den internationalen Handel“.
 
-Simulationscodes, Analysecode zur Jugend-forscht-Arbeit über Handelsschocks 
+Dieser Code gehört zur Jugend-forscht-Arbeit (Simulationscodes und Analysecode für die Untersuchung des realen Einflusses der Distanz)
+
 
 Bedeutungen: 
-Exp1: bilateraler Schock
+Exp1: bilateraler Schock;
 Exp2: multilateraler Schock 
 
 
